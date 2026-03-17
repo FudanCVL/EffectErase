@@ -26,9 +26,6 @@
             <a href="https://cvpr.thecvf.com/virtual/2026/papers.html" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/Paper-CVPR%202026-green" alt="Paper" />
             </a>
-            <a href="https://cvpr.thecvf.com/virtual/2026/papers.html" target="_blank" rel="noreferrer">
-              <img src="https://img.shields.io/badge/Supplementary-PDF-orange" alt="Supplementary" />
-            </a>
             <a href="http://arxiv.org/" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/arXiv-EffectErase-red" alt="arXiv" />
             </a>
