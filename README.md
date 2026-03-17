@@ -94,6 +94,13 @@ Please consider to cite:
   year={2026}
 }
 ```
+## Contact
+
+If you have any questions, please feel free to reach me out at aleeyanger@gmail.com.
+
+## Acknowledgement
+
+This code is based on [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio). Thanks for their awesome works！
 
 ## License
 
