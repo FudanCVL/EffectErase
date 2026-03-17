@@ -32,7 +32,7 @@
             <a href="http://arxiv.org/" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/arXiv-EffectErase-red" alt="arXiv" />
             </a>
-            <a href="https://huggingface.co/datasets/FudanCVL/EffectErase_VOR" target="_blank" rel="noreferrer">
+            <a href="https://huggingface.co/datasets/FudanCVL/EffectErase" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Hugging%20Face-yellow" alt="Dataset" />
             </a>
           </h4>
