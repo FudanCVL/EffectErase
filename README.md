@@ -26,7 +26,7 @@
             <a href="https://cvpr.thecvf.com/virtual/2026/papers.html" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/Paper-CVPR%202026-green" alt="Paper" />
             </a>
-            <a href="http://arxiv.org/" target="_blank" rel="noreferrer">
+            <a href="http://arxiv.org/abs/2603.19224" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/arXiv-EffectErase-red" alt="arXiv" />
             </a>
             <a href="https://huggingface.co/datasets/FudanCVL/EffectErase" target="_blank" rel="noreferrer">
@@ -84,8 +84,8 @@
 Please consider to cite:
 
 ```bibtex
-@inproceedings{fu2026effecterase,
-  title={EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing},
+@inproceedings{fu2026EffectErase,
+  title={{EffectErase}: Joint Video Object Removal and Insertion for High-Quality Effect Erasing},
   author={Fu, Yang and Zheng, Yike and Dai, Ziyun and Ding, Henghui},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2026}
