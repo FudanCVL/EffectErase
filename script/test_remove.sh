@@ -1,5 +1,5 @@
 
-CUDA_VISIBLE_DEVICES="1" python examples/remove_wan/infer_remove_wan.py \
+CUDA_VISIBLE_DEVICES="0" python examples/remove_wan/infer_remove_wan.py \
     --fg_bg_path demo/FG_BG/WILD_ENV006_00042.mp4 \
     --mask_path demo/MASK/WILD_ENV006_00042.mp4 \
     --output_path demo/REMOVE/WILD_ENV006_00042.mp4 \
