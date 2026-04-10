@@ -3,7 +3,7 @@
     <div class="wrap">
       <div class="top">
         <h1 class="title">EffectErase: Joint Video Object Removal<br />and Insertion for High-Quality Effect Erasing</h1>
-        <p class="venue">CVPR 2026</p>
+        <p class="venue">CVPR 2026 Highlight</p>
         <p class="authors">
           <a href="https://www.yangfu.site/" target="_blank" rel="noreferrer">Yang Fu</a>
           &nbsp;·&nbsp;
